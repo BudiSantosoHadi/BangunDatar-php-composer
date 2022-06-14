@@ -1,0 +1,11 @@
+========== CARA MENJALANKAN ==========
+1. harus sudah menginstall composer
+2. ketika sudah mempunyai/menginstall composer
+   buka tools yang anda gunakan
+3. saran dari saya untuk menggunakan VSCODE
+4. Kemudian buka(TERMINAL) di Dalam tolls anda tercinta...
+5. Kemudian panggil perintah "php index.php" setelah itu ENTERR
+6. Kemudian Ikuti Alur nya... :)
+
+---$$$$$$$---HAPPY NGODING---$$$$$$$---
+############@byatifnaufalh########

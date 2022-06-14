@@ -1,0 +1,16 @@
+{
+    "name": "txnh/composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Txnh\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "atifnaufalh",
+            "email": "atifnaufal@gmail.com"
+        }
+    ],
+    "require": {}
+}
